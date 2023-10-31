@@ -3,9 +3,9 @@
 /**
  * check_cycle - checks if a singly list has a cycle
  * @list: list to be checked
- * *
- * * Return: 0 if there is no cycle otherwise 1
- * */
+ *
+ * Return: 0 if there is no cycle otherwise 1
+ */
 int check_cycle(listint_t *list);
 {
 	listint_t *slow = list;
