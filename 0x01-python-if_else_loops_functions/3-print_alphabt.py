@@ -2,4 +2,4 @@
 for r in range(97, 123):
     if (r == 101) or (r == 113):
         continue
-    print(chr(r).format(),end= "")
+    print(chr(r).format(), end="")
